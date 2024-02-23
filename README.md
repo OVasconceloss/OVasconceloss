@@ -4,7 +4,7 @@ Student at <a href="https://www.aesa.edu.pt/edu/index.php/escolas/essa">Escola S
 
 [![Twitter Badge](https://img.shields.io/badge/-@ovasconcelos-3b82f6?style=flat-square&labelColor=3b82f6&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/dieegosf) 
 [![Linkedin Badge](https://img.shields.io/badge/-Vcitor%20Vasconcelos-3b82f6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-vasconcelos-024b65283/)](https://www.linkedin.com/in/victor-vasconcelos-024b65283/) 
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-3b82f6?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorolimpiovasconcelos2006@gmail.com)](mailto:victorolimpiovasconcelos@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/victorolimpiovasconcelos2006@gmail.com-3b82f6?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorolimpiovasconcelos2006@gmail.com)](mailto:victorolimpiovasconcelos@gmail.com)
 
 Enthusiastic about the world of technology.
 
