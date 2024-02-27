@@ -1,6 +1,6 @@
 # Victor Vasconcelos
 
-Student at <a href="https://www.aesa.edu.pt/edu/index.php/escolas/essa">Escola Secundária de Santo André</a>.
+Student at <a href="https://www.aesa.edu.pt/edu/index.php/escolas/essa" target="_blank">Escola Secundária de Santo André</a>.
 
 [![Twitter Badge](https://img.shields.io/badge/-@ovasconcelos-3b82f6?style=flat-square&labelColor=3b82f6&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/dieegosf) 
 [![Linkedin Badge](https://img.shields.io/badge/-Vcitor%20Vasconcelos-3b82f6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-vasconcelos-024b65283/)](https://www.linkedin.com/in/victor-vasconcelos-024b65283/) 
